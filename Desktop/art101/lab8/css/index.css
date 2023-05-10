@@ -1,0 +1,56 @@
+
+.idk{
+    width: 600px;
+    height: 400px;
+
+}
+
+
+.selfie {
+    width: 400px;
+    height: 400px;
+  }
+p {
+    font-weight: bold;
+    font-size: 125%;
+    font-style:italic;
+    color: rgb(143, 7, 64);
+    font-family:'Cambria', Cambria, monospace;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  footer {
+    font-weight: bold;
+    font-size: 125%;
+    font-style:italic;
+    color: rgb(252, 181, 220);
+    font-family:'Cambria', Cambria, monospace;
+    text-align: center;
+  }
+  
+  body {
+    background-color: rgb(255, 198, 245);
+    border-top-color: rgb(146, 0, 75);
+    border-bottom-color: rgb(146, 0, 75);
+    border-left-color: rgb(255, 0, 76);
+    border-right-color:rgb(255, 0, 76);
+    border-style: inset;
+  }
+  
+  h1 {
+    color: rgb(255, 18, 180);
+    font-size: 300%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  
+  h2 {
+    font-weight: bold;
+    font-size: 125%;
+    font-style:italic;
+    color:rgb(216, 0, 155);
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
